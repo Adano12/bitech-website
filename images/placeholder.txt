@@ -1,0 +1,22 @@
+Placeholder Images Needed:
+
+Please add the following images to the images/ directory:
+
+1. hero-devices.png - Hero section image showing electronic devices
+2. computers.jpg - Computers category image
+3. laptops.jpg - Laptops category image  
+4. mobiles.jpg - Mobile phones category image
+5. parts.jpg - Spare parts category image
+6. about-us.jpg - About us section image
+7. ceo.jpg - CEO photo
+8. cto.jpg - CTO photo
+9. cmo.jpg - CMO photo
+10. computer1.jpg, computer2.jpg - Sample computer products
+11. laptop1.jpg, laptop2.jpg - Sample laptop products
+12. phone1.jpg - Sample mobile phone product
+13. keyboard1.jpg - Sample spare part product
+
+For now, you can use placeholder images from services like:
+- https://placeholder.com
+- https://picsum.photos
+- Or generate AI images as needed
