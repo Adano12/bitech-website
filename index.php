@@ -7,7 +7,7 @@ include 'includes/header.php';
 <section class="hero">
     <div class="container">
         <div class="hero-content">
-            <h1>Karibu kwa Bitech</h1>
+            <h1>Karibu Bitech Company</h1>
             <p class="slogan">Innovation at Your Fingertips</p>
             <p>Your trusted partner for cutting-edge electronics and computing solutions</p>
             <a href="products.php" class="btn btn-primary">Shop Now</a>
